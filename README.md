@@ -1,3 +1,5 @@
+> **Archived:** This repository is no longer maintained. Our current work is [Charming](https://usecharming.com), the collaborative cloud for apps you build.
+
 # Conversational GitHub Issue Interaction
 
 A web app with a natural language interface for managing GitHub issues, built with [tambo ai](https://tambo.co/) for AI-powered UI.
